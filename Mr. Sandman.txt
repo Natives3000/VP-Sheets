@@ -1,0 +1,66 @@
+transp: +4
+
+i p s f d s p i 
+o P d g f 8 
+i p s f d s p i 
+o P d g f [uoS] [uod] 
+[4ipf] [68ipd] 4 [68] 4 [68] 4 [68] 
+[O3yf] [%O7yf] [O3rd] [%O7yf] 3 [%70u] [3QI] [7%WO] 
+[6ep] [*wipg] [6ipg] [*wuof] [6ipg] [*wipg] 6 [*Twof] 
+[2yIP] [69yIP] [I2yp] [69yIP] 2 [69y] [20u] [69QI] 
+[5wo] [79oaf] [5oaf] [79oad] [5oaf] [79] 5 [79oad] 
+[1tup] [58tup] [1tuo] [58tup] 1 [58osf] [19y] [580u] 
+[4qo] [68iph] [4iph] [68ipg] [4iph] [68ipg] [4iph] [68ipg] 
+[g!SH] [%7] [g!SH] [%7] [1tus] [58tuP] 1 [58] 
+[4ipf] [68ipd] 4 [68] 4 [68] 4 [68] 
+[O3yf] [%O7yf] [O3rd] [%O7yf] 3 [%70u] [3QI] [7%WO] 
+[6ep] [*wipg] [6ipg] [*wuof] [6ipg] [*wipg] 6 [*Twof] 
+[2yIP] [69] [I2yp] [69yIP] 2 [69y] [20u] [690I] 
+[5yo] [^9] [5yiP] [^P9od] 5 [^P9dg] [P5dg] [^P9dg] 
+[PSh] [^*]  [^*]  [^*] [Pog] [^*PSh] 
+[1sgj] [48] [1sgj] [48] [1dgj] [48odg] [1sgj] [48psg] 
+4 [68] 1 [68] [4] q w e 
+E y i p o i y E 
+t Y o P p q w e 
+E y i p o i y E 
+t Y o P p [eti] [eto] 
+[yip] [24yo]  [24]  [24]  [24] 
+[Tup] [!T3up] [Teo] [!T3up]  [!3]  [!3] 
+2 [8y$IP] [2yIP] [$8yp] [2yIP] [8y$IP] 2 [$8eyp] 
+[5wrY] [7qwrY] [5wy] [7qwrY] 5 [7q] 5 [7q] 
+8 [0wtup] [8tup] [0wtuo] [8tup] [0w] 8 [0wtuo] 
+[qey] [14qey] [qet] [14qey]  [14eti]  [14] 
+ [^4yos] [yos] [4yo^P] [yos] [4yo^P] [yos] [4yo^P] 
+[$IPS] [^*] [$IPS] [^*] [4ipd] [68ips] 4 [68] 
+[yip] [24yio]  [24]  [24]  [24] 
+[Tup] [!T3up] [Teo] [!T3up]  [!3]  [!3] 
+2 [9y$IP] [2yIP] [$I9yp] [2yIP] [9y$IP] 2 [$9yp] 
+[5wrY] [7q] [5wry] [7qwrY] 5 [7q] 5 [7q] 
+[(1wt] [@5] [1wEY] [@Y5to] 1 [5o@YP] [1oYP] [5o@YP] 
+[@YIs] [$^] @ [$^] [s@YID] [$^] [@YIP] [$^YIs] 
+[P4id] [9q] [P4id] [9q] [4yid] [9qyoP] [4ipd] [9q] 
+[yiP] [4^]  [4^] [^] q w e 
+E y i p o i y E 
+w E y i u 8 
+w E y i u y E w 
+q w E y t [upd] [upf] 
+[4ipf] [68ipd] 4 [68] 4 [68] 4 [68] 
+[O3yf] [%O7yf] [O3rd] [%O7yf] 3 [%7] [3yod] [oYD] [%7] [uof] 
+[6ipg] [*w] [6uof] [*wipg] 6 [*wipg] 6 [*wuof] 
+[2yIP] [69yIP] [I2yp] [69yIP] 2 [69] [I2yp] [yIP] [69] [Iys] 
+[5oaf] [79] [5oad] [79oaf] 5 [79] 5 [79oad] 
+[E1yp] [58] [1tuo] [58tup] 1 [58uos] 1 [58] 
+[4q] [psh] [psh] [psg] [psh] [psg] [psh] [psg] 
+[Sgk] [Sgk] [sfl] [sfJ] 
+4 [68] [4tis] [68yod] [4ipf] [68ipd] 4 [68] 
+[O3yf] [%O7yf] [O3rd] [%O7yf] 3 [%O7yf] [O3yf] [%O7yf] 
+[6ipg] [*wipg] [6ipg] [*wuof] [6ipg] [*wipg] 6 [*wyof] 
+[2yIP] [69yIP] [I2yp] [69yIP] 2 [69] [I2yp] [69] 
+[5yo] [^9] [5yiP] [^P9od] 5 [^P9dg] [P5dg] [^P9dg] 
+[PSh] [^*]  [^*]  [^*] [Ewi] [^*ETo] 
+[1tip] [48] [1tip] [48] [2yip] [59wyi] 2 [59] 
+[1tip] [48] [1tip] [48] [2yip] [59] [2eti] [59eyo] 
+[1tip] [48] [1tip] [48] 1 [48] 1 [48] 
+[36yip] 9 [36wi] 9 [36tup] 9 [36] 9 
+[4tip] [8qp] [4s] [8qf] [4d] [8qs] [4p] [8qo] 
+[4i] [8qp] [4s] [8qd] [4g] [4]
